@@ -1,0 +1,28 @@
+{
+	"name": {
+		"en": "After 7 days...",
+		"ru": "Через 7 дней...",
+		"ua": "Через 7 днів..."
+	},
+	"description": {
+		"en": "Watch out, she's coming too fast 😈",
+		"ru": "Осторожно, она слишком быстро приближается 😈",
+		"ua": "Обережно, вона занадто швидко наближається 😈"
+	},
+	"author": "RocketMan",
+	"version": "1.0.0",
+	"type": "screamer",
+	"params": {
+		"video": {
+			"path": "media/zvonok.webm",
+			"hideEnd": true
+		},
+		"sound": {
+			"path": "media/zvonok.mp3"
+		}
+	},
+	"settings": {
+		"lockSeconds": 3,
+		"volume": 50
+	}
+}
